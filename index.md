@@ -15,7 +15,7 @@ Night Light Assisstant
 
   https://create.arduino.cc/projecthub/gabriele_fugazzi/night-light-assistant-0d9bf0?ref=tag&ref_id=motion%20sensor&offset=4
   
-![Image](NightLight.jpg)
+![Image](NightLight.jpeg)
 
 This project is related to mine because *insert reasons here*.
 
@@ -25,7 +25,7 @@ Magical Mushrom Lights
 
 https://www.youtube.com/watch?v=D5LjGFkpApw
 
-![Image](MagicMushrooms.jpg)
+![Image](MagicMushrooms.JPG)
 
 This project is related to mine because *insert reasons here*.
 
@@ -55,7 +55,7 @@ Play With Fire Over WIFI
 
 https://create.arduino.cc/projecthub/electropeak/play-with-fire-over-wi-fi-esp8266-neopixels-android-app-26c4ad?ref=tag&ref_id=led%20strip&offset=5
 
-![Image](Fire.jpg)
+![Image](Fire.jpeg)
 
 This project is related to mine because *insert reasons here*.
 
