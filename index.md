@@ -35,7 +35,7 @@ v
 *Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a rough sketch of what it might be like, and any other notes you created while exploring the idea.*   
 Design concept 1 is both a decorative and practical light that uses a distance sensor to activate the system of  glowing and moving  plant life.  The distance sensors would make different parts of the environment come on and get brighter as someone walks closer to it then slowly turn of as they get further away.  With the addition of a fan to make the plants move around like there was wind.  This could be both a novelty item or used as a night light to make a practical safety light in the dark.
 
-image
+![Image](SLDesign1.jpg)
 
 With experimenting this idea I found the distance sensor as difficult to work however after a bit of reseach and trial and error I found that the sensor needed more power and after adding more power I got it to work with the LEDs and fan coming on at different times.
 
@@ -45,7 +45,7 @@ With experimenting this idea I found the distance sensor as difficult to work ho
 *Put details here.*
 The second concept is a large scale installation of a living environment that comes on and off with varying degrees of brightness when someone passes through it.  This would include glowing plant life, flowing water using LED strips, insects like fireflies and a fan to create movement and add to the realism.  Within the given time and technical ability for this project, the resulting experimental model could only be a small section of the overall concept.
 
-image
+![Image](SLDesign2.jpg)
 
 I found basic instructions on how to make different effects with the Neo Pixel strips and had to do alot of testing to make it look like flowing water rather than just flashing lights.
 
@@ -53,13 +53,16 @@ I found basic instructions on how to make different effects with the Neo Pixel s
 ### Final design concept ###
 *This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.* 
 The final design concept is a small "living" environment consisting of the same glowing plant life, water, fireflies and fan.  This time however, using a PIR motion detector instead of a distance sensor, thereby making  a more realistic interaction between the person and environment.  By having the environment come to life when it senses no movement would replicate the real world wildlife where by, when movement is sensed the elements of the display "go into hiding".  By using the Microbit and the Pir Sensor, I would program the various elements of the display to come on (out of hiding) at different time intervals after no movement was detected, and go off again (into hiding) when there was movement.  
+
+![Image](SLFinalDesign.jpg)
+
 To create this project, I would begin by testing the various elements on the breadboard, before proceeding to incorporate them into my environment.  This I would create using actual wooden logs (rescued from the fire pit) and a fabricated "rock" made from papier-mache covered with air drying clay.  This would all be mounted on a base, painted and after the various elements were correctly wired(soldered) etc decorated with other plant life etc to complement the overall visual appeal of the project. For the mushrooms, I plan to mould them with silicon around the led, with the wiring continuing through the stem of the mushroom.  The fire flies, would be mounted using a yellow led decorated with celophane wings.  Flowers would be artificial flowers, with led's mounted in the centre, and wiring through the back of the flower and down the stem.
 
 
 ### Interaction flowchart ###
 *Draw a draft flowchart of what you anticipate the interaction process in your project to be. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
 
-![Image](missingimage.png)
+![Image](SLFlowChart.jpg)
 
 ## Physical experimentation documentation ##
 
