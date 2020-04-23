@@ -161,19 +161,20 @@ For this project I began with the programing for the NeoPixel LED strip.  After 
 
 https://youtu.be/3tmFgTovflc
 
-IMAGEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE        LED CODE
+![Image](BasicLEDCode.jpg)
 
 This video shows the initial ripiling effect I achieved and also how it looks being half covered by a tissue to get a more despersed glowing effect.
 
 The next step I took was to connect the motion sensor to the lights and adjust the coding to get the fluctuating light effect for the fireflies.
 
 https://www.youtube.com/watch?v=BiCQOx9Rjhs
-IMAGEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE WHOLE CODE
+
+![Image](SLWorkingCode.JPG)
 
 The above video demonsrates the combined elements of the project with the motion sensor triggering the LEDs and Strip to react to the motion input.  I plan to make the seperate parts come on at different intervals with the continued no motion.
 
 
-![Image](missingimage.png)
+![Image](Rock.jpg)
 
 ## Design process discussion ##
 *Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
