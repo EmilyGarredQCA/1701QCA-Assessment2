@@ -1,11 +1,7 @@
 # 1701QCA Making Interaction - Assessment 2 workbook
 
-You will use this workbook to keep track of your progress through the course and also as a process journal to document the making of your projects. The comments in italics throughout the template give suggestions about what to include. Feel free to delete those instructions when you have completed the sections.
-
-When you have completed the template, submit the link to the GitHub Pages site for this repository as a link in Learning@Griffith. The link should be something like [https://qcainteractivemedia.github.io/1701QCA-Assessment2/](https://qcainteractivemedia.github.io/1701QCA-Assessment2/) where `qcainteractivemedia` is replaced with your GitHub username and `1701QCA-Assessment2` is replaced with whatever you called the repository this template is contained in when you set it up.
-
 ## Project working title ##
-Still Life
+#### Still Life ####
 
 ## Related projects ##
  
@@ -36,7 +32,7 @@ https://www.tangibleinteraction.com/artworks/jelly-swarm
 
 ![Image](JellySwarm.jpg)
 
-This project is related to mine because it takes the idea of real world creatures and brings them to a state where we can learn about them by showing how the interaction of people can effect them in the wild.  This same idea is demonstrated in mine as it takes the real life reactions of wild life to an unknown presence.  The paper jellyfish were lit by LEDs which change colour and react with eachother when undisturbed but react differently when effected by humans via a sensor.
+This project is related to mine because it takes the idea of real world creatures and brings them to a state where we can learn about them by showing how the interaction of people can effect them in the wild.  This same idea is demonstrated in my project as it takes the real life reactions of wild life to an unknown presence.  The paper jellyfish were lit by LEDs which change colour and react with eachother when undisturbed but react differently when effected by humans via a sensor.
 
 
 ### Related project 4 ###   
@@ -140,7 +136,7 @@ The final design concept is a small "living" environment consisting of the same 
 
 ![Image](SLFinalDesign.jpg)
 
-To create this project, I would begin by testing the various elements on the breadboard, before proceeding to incorporate them into my environment.  This I would create using actual wooden logs (rescued from the fire pit) and a fabricated "rock" made from papier-mache covered with air drying clay.  This would all be mounted on a base, painted and after the various elements were correctly wired(soldered) etc decorated with other plant life etc to complement the overall visual appeal of the project. For the mushrooms, I plan to mould them with silicon around the led, with the wiring continuing through the stem of the mushroom.  The fire flies, would be mounted using a yellow led decorated with celophane wings.
+To create this project, I would begin by testing the various elements on the breadboard, before proceeding to incorporate them into my environment.  This I would create using actual wooden logs (rescued from the fire pit) and a fabricated "rock" made from papier-mache covered with air drying clay.  This would all be mounted on a base, painted and after the various elements were correctly wired(soldered) etc decorated with other plant life etc to complement the overall visual appeal of the project. For the mushrooms, I plan to mould them with silicon around the led, with the wiring continuing through the stem of the mushroom.  The fireflies, would be mounted using a yellow led decorated with celophane wings.
 
 
 ### Interaction flowchart ###
@@ -148,14 +144,6 @@ To create this project, I would begin by testing the various elements on the bre
 ![Image](SLFlowChart.jpg)
 
 ## Physical experimentation documentation ##
-
-*In this section, show your progress including whichever of the following are appropriate for your project at this point.
-a.	Technical development. Could be code screenshots, pictures of electronics and hardware testing, video of tests. 
-b.	Fabrication. Physical models, rough prototypes, sketches, diagrams of form, material considerations, mood boards, etc.
-Ensure you include comments about the choices you've made along the way.*
-
-
-*You will probably have a range of images and screenshots. Any test videos should be uploaded to YouTube or other publicly accessible site and a link provided here.*
 
 For this project I began with the programing for the NeoPixel LED strip.  After reasearching how to control it and what could be done to get different effects I started experimenting with getting different patterns and colours that best replicate running water.
 
@@ -181,10 +169,12 @@ After successfully completing a basic mock-up of the final concept I decided to 
 
 
 ## Design process discussion ##
-*Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
+
 
 My process for developing this project has involved a lot of research and trial and error.  Throughout I have revised and refined my concept to reflect some of the things which have worked well and some which have not.  This evolution is a reflection of the "Double Diamond" process where a concept is discovered or concieved, defined as a concept by setting parameters for the possible project, developed through research, testing and then adjusting, and finally delivered as a funcitioing product.  This evolution has mostly been from my own development and discovery process as there was very little feedback happening through the discussion board. I feel that the feedback process would have been much easier had we been able to study in a classroom setting as it gives immediate feedback unlike the delay between posting and responding.
+
 Over the course of this project, I have discovered ways to control the various elements of the environment to work on different timings for lights to display brighter or dimmer and how to control the led strip.  I have also learnt to combine a range of different elements to work in conjunction with each other - (lights, fan, sensor, strip).  I experimented first with a distance sensor, so elements would go on and off as something approached and passed by, however by redefining my concept, I decided to focus on tranquility, which would be better controlled by the PIR sensor.  This sensor was problematic to control, however after further research and the discovery of the adjustable controls on the device, I was able to get the result I wanted. This whole process has been a cycle of discovery and redefining as different wiring and coding designs have been tested, adjusted and either developed or discarded.
+
 My next challenge will be to learn how to use a soldering iron and to work out the wiring process on the environment.  I hope to add more elements to the design, than will fit on the breadboard, so know that further problem solving and redevelopment will be required as the project comes together.  This will display the continued use of the Double Diamond process to finaly deliver on my concept design.
 
 
@@ -193,8 +183,13 @@ My next challenge will be to learn how to use a soldering iron and to work out t
 
 The next step I plan to take is continuing to develop the code to make the lights respond progresively along with the other elements.
 I then need to work on the environment, finishing the rock, placing the logs on the base board.
+
 After the environment is made I will work on making the mushrooms and fireflies.  For the mushrooms I plan to use clear silicone as demonstrated in the related project of the magical mushroom lights.  For this I would need to solder the LEDs to the wiring and a sturdy support wire before encasing them in tinted silicone to make the stem.  I would then make the mushroom domes that could sit on the top of the LEDs.  For the fireflies I plan to add a small amount of clay to the bottom of the light and glue some small celophane wings in place,  some of the fireflies would be supported on a wire and others sitting in the environment.
+
 The LED strip would be fitted onto the rock with the end curled around to make a pond.  I will then use hot glue to make the surface of the water which will act as a diffuser to the LED light making it glow.
+
 The log will need holes drilled to make space for the wiring of the elements to go through and hide in the back.  All of the wiring for the various elements will need to be soldered and connected to the Microbit and power source which will be hidden at the back of the display.
-Further testing will be required to ensure everything is runing correctly and small adjustments may be required to the code as neccessary.
+
+Further testing will be required to ensure everything is runing correctly and small adjustments may be required to the code as neccessary.  
+
 After everything is attached and functioning correctly I will add in any other details like extra small rocks, plant life and greenery.
