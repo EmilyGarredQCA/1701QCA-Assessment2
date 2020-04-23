@@ -70,7 +70,7 @@ https://www.teamlab.art/w/butterflies_ephemerallife_people/
 This project is related to mine because *insert reasons here*.
 
 
-### Related project 6 ###   
+### Related project 7 ###   
 Universe of Water Particles in the Tank, Transcending Boundaries
 
 https://www.teamlab.art/w/universe_of_water_particles_tank/
