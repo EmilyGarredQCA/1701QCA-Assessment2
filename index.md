@@ -161,9 +161,11 @@ For this project I began with the programing for the NeoPixel LED strip.  After 
 
 https://youtu.be/3tmFgTovflc
 
+This video shows the initial ripiling effect I achieved and also how it looks being half covered by a tissue to get a more despersed glowing effect.
+
 ![Image](BasicLEDCode.jpg)
 
-This video shows the initial ripiling effect I achieved and also how it looks being half covered by a tissue to get a more despersed glowing effect.
+This is the code used to get this effect by changing the colour of every second LED gave the moving effect.  I found it was possible to change the number of LEDs that moved or to even put a gap in between them to produce various outcomes.
 
 The next step I took was to connect the motion sensor to the lights and adjust the coding to get the fluctuating light effect for the fireflies.
 
@@ -171,13 +173,22 @@ https://www.youtube.com/watch?v=BiCQOx9Rjhs
 
 ![Image](SLWorkingCode.JPG)
 
-The above video demonsrates the combined elements of the project with the motion sensor triggering the LEDs and Strip to react to the motion input.  I plan to make the seperate parts come on at different intervals with the continued no motion.
+The above code and video demonsrates the combined elements of the project with the motion sensor triggering the LEDs and Strip to react to the motion input.  I plan to make the seperate parts come on at different intervals with continued absence of motion.
 
+After successfully completing a basic mock-up of the final concept I decided to start on the fabrication of the environment.  The image shows the basic shape for the rock which will support the LED strip.  I made this using papier mache over a small cardboard box, and plan to cover it in clay and paint it to complement the environment.
 
 ![Image](Rock.jpg)
+
 
 ## Design process discussion ##
 *Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
 
 ## Next steps ##
-*Write a list or provide other information about your plan to move the project forward to be ready to present by video and documentation in week 12 of the course.*
+
+The next step I plan to take is continuing to develop the code to make the lights respond progresively along with the other elements.
+I then need to work on the environment, finishing the rock, placing the logs on the base board.
+After the environment is made I will work on making the mushrooms and fireflies.  For the mushrooms I plan to use clear silicone as demonstrated in the related project of the magical mushroom lights.  For this I would need to solder the LEDs to the wiring and a sturdy support wire before encasing them in tinted silicone to make the stem.  I would then make the mushroom domes that could sit on the top of the LEDs.  For the fireflies I plan to add a small amount of clay to the bottom of the light and glue some small celophane wings in place,  some of the fireflies would be supported on a wire and others sitting in the environment.
+The LED strip would be fitted onto the rock with the end curled around to make a pond.  I will then use hot glue to make the surface of the water which will act as a diffuser to the LED light making it glow.
+The log will need holes drilled to make space for the wiring of the elements to go through and hide in the back.  All of the wiring for the various elements will need to be soldered and connected to the Microbit and power source which will be hidden at the back of the display.
+Further testing will be required to ensure everything is runing correctly and small adjustments may be required to the code as neccessary.
+After everything is attached and functioning correctly I will add in any other details like extra small rocks, plant life and greenery.
