@@ -1,7 +1,7 @@
 # 1701QCA Making Interaction - Assessment 2 workbook
 
 ## Project working title ##
-#### Still Life ####
+### Still Life ###
 
 ## Related projects ##
  
