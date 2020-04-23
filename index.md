@@ -8,7 +8,6 @@ When you have completed the template, submit the link to the GitHub Pages site f
 Still Life
 
 ## Related projects ##
-*Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing.*   
  
 ### Related project 1 ###   
 Night Light Assisstant
@@ -17,7 +16,7 @@ Night Light Assisstant
   
 ![Image](NightLight.jpeg)
 
-This project is related to mine because *insert reasons here*.
+This project is related to mine because it uses the input of a PIR Motion Detector to turn on lights to assist at night.  This function is the same principal to my origional concepts however in my final project this was reversed with the lights coming on when there is no movement.
 
 
 ### Related project 2 ###   
@@ -27,7 +26,7 @@ https://www.youtube.com/watch?v=D5LjGFkpApw
 
 ![Image](MagicMushrooms.JPG)
 
-This project is related to mine because *insert reasons here*.
+This project is related to mine because it uses LEDs to make fake mushrooms glow.  I like the way he created the realistic looking mushrooms and hope to use a similar process to make the mushrooms for my project however mine will be controlled by the input of the motion detector.
 
 
 ### Related project 3 ###   
@@ -37,7 +36,7 @@ https://www.tangibleinteraction.com/artworks/jelly-swarm
 
 ![Image](JellySwarm.jpg)
 
-This project is related to mine because *insert reasons here*.
+This project is related to mine because it takes the idea of real world creatures and brings them to a state where we can learn about them by showing how peoples interactions can effect them in the wild.  The same as mine takes the real life reactions of wild life to an unknown presence.  The paper jellyfish were lit by LEDs which change colour and react with eachother when undisturbed but react differently when effected by humans via a sensor.
 
 
 ### Related project 4 ###   
@@ -47,8 +46,8 @@ https://www.teamlab.art/w/people_create_space/
 
 ![Image](PeopleCreateSpace.jpg)
 
-This project is related to mine because *insert reasons here*.
-
+This project is related to mine because it uses the same principal of stillness.  In this light display when a person remains still the projection creates a very slow ripple effect which radiates from them across the room creating a peacfull 
+experience.  My project also used this continued stillness to have an effect on the environment with the project only coming to life when there is no motion.
 
 ### Related project 5 ###   
 Play With Fire Over WIFI
@@ -56,8 +55,7 @@ Play With Fire Over WIFI
 https://create.arduino.cc/projecthub/electropeak/play-with-fire-over-wi-fi-esp8266-neopixels-android-app-26c4ad?ref=tag&ref_id=led%20strip&offset=5
 
 ![Image](Fire.JPG)
-
-This project is related to mine because *insert reasons here*.
+This project is related to mine because the effect demonstrated to create the fire uses a NeoPixel LED strip.  I got the idea of including a running water effect from this project as when the light turns blue it reminded me of water. 
 
 
 ### Related project 6 ###   
@@ -67,25 +65,44 @@ https://www.teamlab.art/w/butterflies_ephemerallife_people/
 
 ![Image](FlutterOfButterflies.jpg)
 
-This project is related to mine because *insert reasons here*.
-
-
-### Related project 7 ###   
-Universe of Water Particles in the Tank, Transcending Boundaries
-
-https://www.teamlab.art/w/universe_of_water_particles_tank/
-
-![Image](UniverseOfWater.jpg)
-
-This project is related to mine because *insert reasons here*.
-
+This project is related to mine because when a person stands still it allows for projections of butterflies to grow on them before flying away and navigate the space on their own.  This takes the same idea with the stillness and adds life to it albeit in a non material form and replicates my idea of stillness welcoming life.
 
 ## Other research ##
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
 
+micro:bit Lesson 3. NeoPixels with micro:bit
 https://learn.adafruit.com/micro-bit-lesson-3-neopixels-with-micro-bit/software
+
+This website gave me a good understanding of the basics of programing a NeoPixel with a Microbit to get the desired effect to make the LED strip appear as flowing water.  I was able to experiment with different colour, brightness and movement of the lights.
+
+LED Strip Effects
 https://www.tweaking4all.com/hardware/arduino/adruino-led-strip-effects/
+
+This website gave me lots of examples of what could be done with the NeoPixel strip and what effect could make the best running water however the programing was made for Arduino and could'nt be used with the Microbit.  The videos also showed how to give a more diffused and glowing effect by placing a thin material like tissue just above the lights. 
+
+
+Connecting a PIR motion sensor to a micro:bit
+https://www.teachwithict.com/pir.html
+
+This basic tutorial on how to connect the Microbit to the PIR motion detector gave me a simple code however had very unreliable results.  I found that even when the sensor was totaly covered the indicator light on the Microbit continued to switch between the two inputs.
+
+
+How PIR modules work and using them to control LED strings.
 https://www.youtube.com/watch?v=evZM2_RTvTU
+
+This indepth video tutorial gave me extensive information on how the PIR motion detector works, how to adjust different components to get better results and how to make a basic circuit using LEDs.  This helped solve the problems experienced from the previous website.
+
+
+Microbit + Spotify
+https://www.hackster.io/samelhusseini/microbit-spotify-windows-8a8551
+
+I had an idea to also connect the Microbit to play forest sound effects along with the other components to add another layer of realism to the environment.  This tutorial gave detailed instructions and seemed effective however it would have needed two Microbits, plus another program that would allow the Microbit to communicate with the computer and Spotify.  This extra expense coupled with the unfamiliar program and coding required on my computer prompted me to reconsider this idea.
+
+
+Inventors Kit Experiment 4 
+https://www.kitronik.co.uk/blog/experiment-4-using-a-transistor-to-drive-a-motor/
+
+I used the coding in this experiment as inspiration to give the fireflies a fluctuating glow.  This allowed me to control the LEDs making them illuminate gratually and pulse in a realistic manner. 
 
 
 ### *Brief resource name/description* ###
