@@ -5,8 +5,7 @@ You will use this workbook to keep track of your progress through the course and
 When you have completed the template, submit the link to the GitHub Pages site for this repository as a link in Learning@Griffith. The link should be something like [https://qcainteractivemedia.github.io/1701QCA-Assessment2/](https://qcainteractivemedia.github.io/1701QCA-Assessment2/) where `qcainteractivemedia` is replaced with your GitHub username and `1701QCA-Assessment2` is replaced with whatever you called the repository this template is contained in when you set it up.
 
 ## Project working title ##
-*Insert a name for the project as you conceive of it at the moment.*
-Waiting Forest - Still Life - Wait and See
+Still Life
 
 ## Related projects ##
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing.*
@@ -22,7 +21,7 @@ This project is related to mine because *insert reasons here*.
 
 ## Other research ##
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*     PIR thing,    Neo Pixel thing 
-
+v
 ### *Brief resource name/description* ###
 
 *Provide a link, reference, or whatever is required for somebody else to find the resource. Then provide a few comments about what you have drawn from the resource.*
@@ -44,7 +43,7 @@ With experimenting this idea I found the distance sensor as difficult to work ho
 
 ### Design concept 2 ###
 *Put details here.*
-The second concept is a large scale installation of a living environment that comes on and off when someone passes through it.  This would include glowing plant life, flowing water using LED strips, insects like fireflies and a fan to create movement and add to the realism.  Within the given time and technical ability for this project, the resulting experimental model could only be a small section of the overall concept.
+The second concept is a large scale installation of a living environment that comes on and off with varying degrees of brightness when someone passes through it.  This would include glowing plant life, flowing water using LED strips, insects like fireflies and a fan to create movement and add to the realism.  Within the given time and technical ability for this project, the resulting experimental model could only be a small section of the overall concept.
 
 image
 
