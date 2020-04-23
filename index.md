@@ -81,8 +81,13 @@ This project is related to mine because *insert reasons here*.
 
 
 ## Other research ##
-*Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*     PIR thing,    Neo Pixel thing 
-v
+*Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
+
+https://learn.adafruit.com/micro-bit-lesson-3-neopixels-with-micro-bit/software
+https://www.tweaking4all.com/hardware/arduino/adruino-led-strip-effects/
+https://www.youtube.com/watch?v=evZM2_RTvTU
+
+
 ### *Brief resource name/description* ###
 
 *Provide a link, reference, or whatever is required for somebody else to find the resource. Then provide a few comments about what you have drawn from the resource.*
