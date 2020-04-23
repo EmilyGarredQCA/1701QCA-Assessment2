@@ -8,66 +8,74 @@ When you have completed the template, submit the link to the GitHub Pages site f
 Still Life
 
 ## Related projects ##
-*Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing.*
-
- https://www.teamlab.art/w/people_create_space/        https://www.youtube.com/watch?v=D5LjGFkpApw     https://www.teamlab.art/w/butterflies_ephemerallife_people/     https://www.teamlab.art/w/universe_of_water_particles_tank/     
+*Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing.*   
  
 ### Related project 1 ###   
 Night Light Assisstant
 
   https://create.arduino.cc/projecthub/gabriele_fugazzi/night-light-assistant-0d9bf0?ref=tag&ref_id=motion%20sensor&offset=4
   
-![Image](missingimage.png)
+![Image](NightLight.jpg)
 
 This project is related to mine because *insert reasons here*.
 
 
 ### Related project 2 ###   
-*Insert name of project*
+Magical Mushrom Lights
 
-*Insert URL to project*  
+https://www.youtube.com/watch?v=D5LjGFkpApw
 
-![Image](missingimage.png)
+![Image](MagicMushrooms.jpg)
 
 This project is related to mine because *insert reasons here*.
 
 
 ### Related project 3 ###   
-*Insert name of project*
+Jelly Swarm
 
-*Insert URL to project*  
+https://www.tangibleinteraction.com/artworks/jelly-swarm
 
-![Image](missingimage.png)
+![Image](JellySwarm.jpg)
 
 This project is related to mine because *insert reasons here*.
 
 
 ### Related project 4 ###   
-*Insert name of project*
+People Create Space and Time, at the Confluence of their Spacetime New Space and Time is Born
 
-*Insert URL to project*  
+https://www.teamlab.art/w/people_create_space/
 
-![Image](missingimage.png)
+![Image](PeopleCreateSpace.jpg)
 
 This project is related to mine because *insert reasons here*.
 
 
 ### Related project 5 ###   
-*Insert name of project*
+Play With Fire Over WIFI
 
-*Insert URL to project*  
+https://create.arduino.cc/projecthub/electropeak/play-with-fire-over-wi-fi-esp8266-neopixels-android-app-26c4ad?ref=tag&ref_id=led%20strip&offset=5
 
-![Image](missingimage.png)
+![Image](Fire.jpg)
 
 This project is related to mine because *insert reasons here*.
 
 
 ### Related project 6 ###   
-*Insert name of project*
+Flutter of Butterflies Beyond Borders, Ephemeral Life Born from People
 
-*Insert URL to project*  
+https://www.teamlab.art/w/butterflies_ephemerallife_people/
 
-![Image](missingimage.png)
+![Image](FlutterOfButterflies.jpg)
+
+This project is related to mine because *insert reasons here*.
+
+
+### Related project 6 ###   
+Universe of Water Particles in the Tank, Transcending Boundaries
+
+https://www.teamlab.art/w/universe_of_water_particles_tank/
+
+![Image](UniverseOfWater.jpg)
 
 This project is related to mine because *insert reasons here*.
 
