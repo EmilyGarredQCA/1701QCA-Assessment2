@@ -55,7 +55,7 @@ Play With Fire Over WIFI
 
 https://create.arduino.cc/projecthub/electropeak/play-with-fire-over-wi-fi-esp8266-neopixels-android-app-26c4ad?ref=tag&ref_id=led%20strip&offset=5
 
-![Image](Fire.jpeg)
+![Image](Fire.JPG)
 
 This project is related to mine because *insert reasons here*.
 
