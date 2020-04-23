@@ -16,7 +16,7 @@ Night Light Assisstant
   
 ![Image](NightLight.jpeg)
 
-This project is related to mine because it uses the input of a PIR Motion Detector to turn on lights to assist at night.  This function is the same principal to my origional concepts however in my final project this was reversed with the lights coming on when there is no movement.
+This project is related to mine because it uses the input of a PIR Motion Detector to turn on lights to assist at night.  This function is the same principal to my original concepts however in my final project this was reversed with the lights coming on when there is no movement.
 
 
 ### Related project 2 ###   
@@ -26,7 +26,7 @@ https://www.youtube.com/watch?v=D5LjGFkpApw
 
 ![Image](MagicMushrooms.JPG)
 
-This project is related to mine because it uses LEDs to make fake mushrooms glow.  I like the way he created the realistic looking mushrooms and hope to use a similar process to make the mushrooms for my project however mine will be controlled by the input of the motion detector.
+This project is related to mine because it uses LEDs to make fake mushrooms glow.  I like the way he created the realistic looking mushrooms and hope to use a similar process to make the mushrooms for my project.  However in my environment the mushrooms will be controlled by the input of the motion detector.
 
 
 ### Related project 3 ###   
@@ -36,7 +36,7 @@ https://www.tangibleinteraction.com/artworks/jelly-swarm
 
 ![Image](JellySwarm.jpg)
 
-This project is related to mine because it takes the idea of real world creatures and brings them to a state where we can learn about them by showing how peoples interactions can effect them in the wild.  The same as mine takes the real life reactions of wild life to an unknown presence.  The paper jellyfish were lit by LEDs which change colour and react with eachother when undisturbed but react differently when effected by humans via a sensor.
+This project is related to mine because it takes the idea of real world creatures and brings them to a state where we can learn about them by showing how the interaction of people can effect them in the wild.  This same idea is demonstrated in mine as it takes the real life reactions of wild life to an unknown presence.  The paper jellyfish were lit by LEDs which change colour and react with eachother when undisturbed but react differently when effected by humans via a sensor.
 
 
 ### Related project 4 ###   
@@ -55,6 +55,7 @@ Play With Fire Over WIFI
 https://create.arduino.cc/projecthub/electropeak/play-with-fire-over-wi-fi-esp8266-neopixels-android-app-26c4ad?ref=tag&ref_id=led%20strip&offset=5
 
 ![Image](Fire.JPG)
+
 This project is related to mine because the effect demonstrated to create the fire uses a NeoPixel LED strip.  I got the idea of including a running water effect from this project as when the light turns blue it reminded me of water. 
 
 
@@ -65,68 +66,68 @@ https://www.teamlab.art/w/butterflies_ephemerallife_people/
 
 ![Image](FlutterOfButterflies.jpg)
 
-This project is related to mine because when a person stands still it allows for projections of butterflies to grow on them before flying away and navigate the space on their own.  This takes the same idea with the stillness and adds life to it albeit in a non material form and replicates my idea of stillness welcoming life.
+This project is related to mine because when a person stands still it allows for projections of butterflies to grow on them before flying away and navigating the space on their own.  This takes the same idea with the stillness and adds life to it albeit in a non-material form and replicates my idea of stillness welcoming life.
 
 ## Other research ##
-*Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
 
 micro:bit Lesson 3. NeoPixels with micro:bit
+
 https://learn.adafruit.com/micro-bit-lesson-3-neopixels-with-micro-bit/software
 
 This website gave me a good understanding of the basics of programing a NeoPixel with a Microbit to get the desired effect to make the LED strip appear as flowing water.  I was able to experiment with different colour, brightness and movement of the lights.
 
 LED Strip Effects
+
 https://www.tweaking4all.com/hardware/arduino/adruino-led-strip-effects/
 
-This website gave me lots of examples of what could be done with the NeoPixel strip and what effect could make the best running water however the programing was made for Arduino and could'nt be used with the Microbit.  The videos also showed how to give a more diffused and glowing effect by placing a thin material like tissue just above the lights. 
+This website gave me lots of examples of what could be done with the NeoPixel strip and what effect could make the best running water however the programing was made for Arduino and couldn't be used with the Microbit.  The videos also showed how to give a more diffused and glowing effect by placing a thin material like tissue just above the lights. 
 
 
 Connecting a PIR motion sensor to a micro:bit
+
 https://www.teachwithict.com/pir.html
 
 This basic tutorial on how to connect the Microbit to the PIR motion detector gave me a simple code however had very unreliable results.  I found that even when the sensor was totaly covered the indicator light on the Microbit continued to switch between the two inputs.
 
 
 How PIR modules work and using them to control LED strings.
+
 https://www.youtube.com/watch?v=evZM2_RTvTU
 
 This indepth video tutorial gave me extensive information on how the PIR motion detector works, how to adjust different components to get better results and how to make a basic circuit using LEDs.  This helped solve the problems experienced from the previous website.
 
 
 Microbit + Spotify
+
 https://www.hackster.io/samelhusseini/microbit-spotify-windows-8a8551
 
 I had an idea to also connect the Microbit to play forest sound effects along with the other components to add another layer of realism to the environment.  This tutorial gave detailed instructions and seemed effective however it would have needed two Microbits, plus another program that would allow the Microbit to communicate with the computer and Spotify.  This extra expense coupled with the unfamiliar program and coding required on my computer prompted me to reconsider this idea.
 
 
 Inventors Kit Experiment 4 
+
 https://www.kitronik.co.uk/blog/experiment-4-using-a-transistor-to-drive-a-motor/
 
 I used the coding in this experiment as inspiration to give the fireflies a fluctuating glow.  This allowed me to control the LEDs making them illuminate gratually and pulse in a realistic manner. 
 
 
-### *Brief resource name/description* ###
-
-*Provide a link, reference, or whatever is required for somebody else to find the resource. Then provide a few comments about what you have drawn from the resource.*
-
 ## Conceptual progress ##
 
 ### Design intent ###
-*Include your design intent here. It should be about a 10 word phrase/sentence.*  To create a small glowing environment to be used as a decorative or practical and calming sourse of light.
+To create a small glowing environment to be used as a decorative or practical and calming sourse of light.
 
 ### Design concept 1 ###
-*Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a rough sketch of what it might be like, and any other notes you created while exploring the idea.*   
-Design concept 1 is both a decorative and practical light that uses a distance sensor to activate the system of  glowing and moving  plant life.  The distance sensors would make different parts of the environment come on and get brighter as someone walks closer to it then slowly turn of as they get further away.  With the addition of a fan to make the plants move around like there was wind.  This could be both a novelty item or used as a night light to make a practical safety light in the dark.
+
+Design concept 1 is both a decorative and practical light that uses a distance sensor to activate the system of  glowing and moving  plant life.  The distance sensors would make different parts of the environment come on and get brighter as someone walks closer to it then slowly turn off as they get further away.  With the addition of a fan to make the plants move around like there was wind.  This could be both a novelty item or used as a night light to make a practical safety light in the dark.
 
 ![Image](SLDesign1.jpg)
 
-With experimenting this idea I found the distance sensor as difficult to work however after a bit of reseach and trial and error I found that the sensor needed more power and after adding more power I got it to work with the LEDs and fan coming on at different times.
+While experimenting with this idea I found the distance sensor was difficult to work with, however after a bit of reseach and trial and error I found that the sensor needed more power. After adding an additional battery pack I got it to work with the LEDs and fan coming on at different times.
 
-*Put the first two design concepts in the sections "Design concept 1" and "Design concept 2". Then put the third, with more development in the section "Final design concept".*
 
 ### Design concept 2 ###
-*Put details here.*
-The second concept is a large scale installation of a living environment that comes on and off with varying degrees of brightness when someone passes through it.  This would include glowing plant life, flowing water using LED strips, insects like fireflies and a fan to create movement and add to the realism.  Within the given time and technical ability for this project, the resulting experimental model could only be a small section of the overall concept.
+
+The second concept is an extention of the initial idea with the potential to expand it into a large scale installation of a living environment that comes on and off with varying degrees of brightness when someone passes through it.  This would include glowing plant life, flowing water (using LED strips), immersive forest sounds, insects like fireflies and a fan to create movement and add to the realism.  Within the given time and scope of this project, the resulting experimental model could only be a small section of the overall concept.
 
 ![Image](SLDesign2.jpg)
 
@@ -134,16 +135,15 @@ I found basic instructions on how to make different effects with the Neo Pixel s
 
 
 ### Final design concept ###
-*This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.* 
-The final design concept is a small "living" environment consisting of the same glowing plant life, water, fireflies and fan.  This time however, using a PIR motion detector instead of a distance sensor, thereby making  a more realistic interaction between the person and environment.  By having the environment come to life when it senses no movement would replicate the real world wildlife where by, when movement is sensed the elements of the display "go into hiding".  By using the Microbit and the Pir Sensor, I would program the various elements of the display to come on (out of hiding) at different time intervals after no movement was detected, and go off again (into hiding) when there was movement.  
+ 
+The final design concept is a small "living" environment consisting of the same glowing plant life, water, fireflies and fan.  This time however, using a PIR motion detector instead of a distance sensor, thereby making  a more realistic interaction between the person and environment.  By having the environment come to life when it senses no movement would replicate the real world wildlife where by, when movement is sensed the elements of the display "go into hiding".  By using the Microbit and the PIR Sensor, I would program the various elements of the display to come on (out of hiding) at different time intervals after no movement was detected, and go off again (into hiding) when there was movement.  
 
 ![Image](SLFinalDesign.jpg)
 
-To create this project, I would begin by testing the various elements on the breadboard, before proceeding to incorporate them into my environment.  This I would create using actual wooden logs (rescued from the fire pit) and a fabricated "rock" made from papier-mache covered with air drying clay.  This would all be mounted on a base, painted and after the various elements were correctly wired(soldered) etc decorated with other plant life etc to complement the overall visual appeal of the project. For the mushrooms, I plan to mould them with silicon around the led, with the wiring continuing through the stem of the mushroom.  The fire flies, would be mounted using a yellow led decorated with celophane wings.  Flowers would be artificial flowers, with led's mounted in the centre, and wiring through the back of the flower and down the stem.
+To create this project, I would begin by testing the various elements on the breadboard, before proceeding to incorporate them into my environment.  This I would create using actual wooden logs (rescued from the fire pit) and a fabricated "rock" made from papier-mache covered with air drying clay.  This would all be mounted on a base, painted and after the various elements were correctly wired(soldered) etc decorated with other plant life etc to complement the overall visual appeal of the project. For the mushrooms, I plan to mould them with silicon around the led, with the wiring continuing through the stem of the mushroom.  The fire flies, would be mounted using a yellow led decorated with celophane wings.
 
 
 ### Interaction flowchart ###
-*Draw a draft flowchart of what you anticipate the interaction process in your project to be. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
 
 ![Image](SLFlowChart.jpg)
 
@@ -154,7 +154,24 @@ a.	Technical development. Could be code screenshots, pictures of electronics and
 b.	Fabrication. Physical models, rough prototypes, sketches, diagrams of form, material considerations, mood boards, etc.
 Ensure you include comments about the choices you've made along the way.*
 
+
 *You will probably have a range of images and screenshots. Any test videos should be uploaded to YouTube or other publicly accessible site and a link provided here.*
+
+For this project I began with the programing for the NeoPixel LED strip.  After reasearching how to control it and what could be done to get different effects I started experimenting with getting different patterns and colours that best replicate running water.
+
+https://youtu.be/3tmFgTovflc
+
+IMAGEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE        LED CODE
+
+This video shows the initial ripiling effect I achieved and also how it looks being half covered by a tissue to get a more despersed glowing effect.
+
+The next step I took was to connect the motion sensor to the lights and adjust the coding to get the fluctuating light effect for the fireflies.
+
+https://www.youtube.com/watch?v=BiCQOx9Rjhs
+IMAGEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE WHOLE CODE
+
+The above video demonsrates the combined elements of the project with the motion sensor triggering the LEDs and Strip to react to the motion input.  I plan to make the seperate parts come on at different intervals with the continued no motion.
+
 
 ![Image](missingimage.png)
 
