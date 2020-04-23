@@ -10,14 +10,67 @@ Still Life
 ## Related projects ##
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing.*
 
-### Related project 1 ###
+ https://www.teamlab.art/w/people_create_space/        https://www.youtube.com/watch?v=D5LjGFkpApw     https://www.teamlab.art/w/butterflies_ephemerallife_people/     https://www.teamlab.art/w/universe_of_water_particles_tank/     
+ 
+### Related project 1 ###   
+Night Light Assisstant
+
+  https://create.arduino.cc/projecthub/gabriele_fugazzi/night-light-assistant-0d9bf0?ref=tag&ref_id=motion%20sensor&offset=4
+  
+![Image](missingimage.png)
+
+This project is related to mine because *insert reasons here*.
+
+
+### Related project 2 ###   
 *Insert name of project*
 
-*Insert URL to project*  https://www.teamlab.art/w/people_create_space/        https://www.youtube.com/watch?v=D5LjGFkpApw     https://create.arduino.cc/projecthub/gabriele_fugazzi/night-light-assistant-0d9bf0?ref=tag&ref_id=motion%20sensor&offset=4          https://www.teamlab.art/w/butterflies_ephemerallife_people/     https://www.teamlab.art/w/universe_of_water_particles_tank/     experiment in the book    Code for neo pixel strip
+*Insert URL to project*  
 
 ![Image](missingimage.png)
 
 This project is related to mine because *insert reasons here*.
+
+
+### Related project 3 ###   
+*Insert name of project*
+
+*Insert URL to project*  
+
+![Image](missingimage.png)
+
+This project is related to mine because *insert reasons here*.
+
+
+### Related project 4 ###   
+*Insert name of project*
+
+*Insert URL to project*  
+
+![Image](missingimage.png)
+
+This project is related to mine because *insert reasons here*.
+
+
+### Related project 5 ###   
+*Insert name of project*
+
+*Insert URL to project*  
+
+![Image](missingimage.png)
+
+This project is related to mine because *insert reasons here*.
+
+
+### Related project 6 ###   
+*Insert name of project*
+
+*Insert URL to project*  
+
+![Image](missingimage.png)
+
+This project is related to mine because *insert reasons here*.
+
 
 ## Other research ##
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*     PIR thing,    Neo Pixel thing 
