@@ -163,9 +163,23 @@ https://www.youtube.com/watch?v=BiCQOx9Rjhs
 
 The above code and video demonsrates the combined elements of the project with the motion sensor triggering the LEDs and Strip to react to the motion input.  I plan to make the seperate parts come on at different intervals with continued absence of motion.
 
-After successfully completing a basic mock-up of the final concept I decided to start on the fabrication of the environment.  The image shows the basic shape for the rock which will support the LED strip.  I made this using papier mache over a small cardboard box, and plan to cover it in clay and paint it to complement the environment.
+After successfully completing a basic mock-up of the final concept I decided to start on the fabrication of the environment.  The image shows the basic shape for the rock which will support the LED strip.  I made this using papier mache over a small cardboard box, and then have covered it in a thin layer of air drying clay, which I then painted to look like a rock.
 
 ![Image](Rock.jpg)
+
+With everything working I began to create the final electronic components for the mushrooms.
+The first step was to learn how to solder.
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Design process discussion ##
